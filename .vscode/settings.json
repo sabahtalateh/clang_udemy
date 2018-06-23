@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "second.h": "c",
+        "hello.h": "c",
+        "link.h": "c",
+        "libmpic.h": "c",
+        "string.h": "c"
+    }
+}
